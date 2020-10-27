@@ -16,4 +16,4 @@ To the algorithms-task folder add `solution.[extension]` file. This file must co
 
 To specialization-task folder clone the repository with the specialization task (we'll send you an invite during the interview). <br>
 
-Your last commit must have a comment 'Last commit'.
+Your last commit must have a comment 'Last commit' and must be no later than 2h 30minutes after interview starts.
