@@ -16,7 +16,7 @@ To the algorithms-task folder add `solution.[extension]` file. This file must co
 
 To specialization-task folder clone the repository with the specialization task (we'll send you an invite during the interview). <br>
 
-Your last commit must have a comment 'Last commit' and must be no later than 2h 30minutes after interview starts.
+Your last commit must have a comment 'Final commit' and must be no later than 2h 30minutes after interview starts.
 
 Please send us an email when finished (to s.vasilieva@syberry.com or academy@syberry.com).
 
