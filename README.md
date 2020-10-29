@@ -25,7 +25,7 @@
 9. Download version for Windows
 10. Install application
 11. Open terminal, type `yarn --version`
-12. Verify installation by seeing Yarn version `6.14.6` in terminal
+12. Verify installation by seeing Yarn version `1.22.10` in terminal
 13. Download latest version of ItelliJ IDEA (https://www.jetbrains.com/idea/download/) or WebStorm (https://www.jetbrains.com/webstorm/download/download-thanks.html)
 14. Install IDE
 
