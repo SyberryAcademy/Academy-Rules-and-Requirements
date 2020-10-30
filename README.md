@@ -14,6 +14,8 @@
 
 ### React
 
+We expect you to work in JetBrains WebStorm
+
 1. Go to https://nodejs.org/en/download/
 2. Download file according to your system type (32 or 64 bits)
 3. Install application
@@ -25,11 +27,13 @@
 9. Download version for Windows
 10. Install application
 11. Open terminal, type `yarn --version`
-12. Verify installation by seeing Yarn version `6.14.6` in terminal
+12. Verify installation by seeing Yarn version `1.22.4` in terminal
 13. Download latest version of ItelliJ IDEA (https://www.jetbrains.com/idea/download/) or WebStorm (https://www.jetbrains.com/webstorm/download/download-thanks.html)
 14. Install IDE
 
 ### PHP
+
+We expect you to work in JetBrains PHPStorn or JetBrains IntelliJ IDEA Community Edition
 
 1. Go to  https://docs.docker.com/docker-for-windows/install/#install-docker-desktop-on-windows
 2. Download file according to your system type (32 or 64 bits)
@@ -44,6 +48,8 @@
 11. Install IDE
 
 ### Java
+
+We expect you to work in JetBrains IntelliJ IDEA Community Edition
 
 1. Go to  https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 2. Download Windows x64 installer
