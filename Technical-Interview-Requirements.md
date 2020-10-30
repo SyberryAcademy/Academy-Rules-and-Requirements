@@ -20,4 +20,4 @@ Your last commit must have a comment 'Final commit' and must be no later than 2h
 
 Please send us an email when finished (to s.vasilieva@syberry.com or academy@syberry.com).
 
-We promise to grade your solution within 5 working days strating the day of your interview.
+We promise to grade your solution within 5 working days starting the day of your interview.
