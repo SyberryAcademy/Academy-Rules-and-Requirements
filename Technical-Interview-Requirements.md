@@ -24,9 +24,10 @@ _(It doesn't matter if you have completed one or two tasks)_
 ```
 git init
 ```
-3. Create the `algorithms-task` directory: 
+3. Create the `algorithms-task` and `specialization-task` directories: 
 ```
 mkdir algorithms-task
+mkdir specialization-task
 ```
 4. Copy the task from the git repository to the `specialization-task` directory:
 ``` 
